@@ -33,7 +33,7 @@ glucoai/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/glucoai.git
+git clone https://github.com/Chakrasai/gluco.git
 cd glucoai
 ```
 
